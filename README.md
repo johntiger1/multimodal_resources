@@ -1,4 +1,6 @@
 # multimodal_resources
+A bigger thread is the healthcare setting: as it turns out, the *best* datasets, are indeed publicly available health datasets only! Note that we do not have other great resources for multi-modality! This motivates why we must do it in the healthcare space
+
 Resources for exploring multimodality  
 
 Pretty much just this site: https://physionet.org/content/
