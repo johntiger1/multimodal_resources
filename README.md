@@ -12,3 +12,5 @@ Chest x-rays + text: https://physionet.org/content/mimic-cxr/2.0.0/
 
 GQA: has scene graphs, visuals (images) and text (questions):
 https://cs.stanford.edu/people/dorarad/gqa/download.html
+
+But it is hard to infer gender/protected attributes? Perhaps not! If we can ask the general question, then we have a noisy label! And we can investigate fairness in this context!
